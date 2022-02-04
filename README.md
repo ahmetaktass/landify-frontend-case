@@ -1,5 +1,4 @@
--Live Demo : https://landify-app.herokuapp.com/
-
+-Live Demo :https://landify-frontend-case.herokuapp.com/
 # Desktop
 ![landify-desktop](https://user-images.githubusercontent.com/56774618/151451009-044d50bc-4a17-43e4-8916-1bf506ee8a2b.png)
 # Tablet
